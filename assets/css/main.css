@@ -8,7 +8,7 @@
 /* Colors */
 :root {
   --color-default: #212529;
-  --color-primary: #ce1212;
+  --color-primary: #6c5337;
   --color-secondary: #37373f;
 }
 
@@ -31,7 +31,7 @@ a {
 }
 
 a:hover {
-  color: #ec2727;
+  color: #7b5f3e;
   text-decoration: none;
 }
 
@@ -199,8 +199,8 @@ section {
 }
 
 .hero .btn-menu:hover {
-  background: rgba(206, 18, 18, 0.8);
-  box-shadow: 0 8px 28px rgba(206, 18, 18, 0.45);
+  background: #7b5f3e;
+  box-shadow: 0 8px 28px #5c472f;
 }
 
 .btn-menu img {
